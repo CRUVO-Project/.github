@@ -73,7 +73,7 @@ CRUVO — это открытое IT-сообщество, где професс
 
 - Сайт: [https://cruvo-project.ru](https://cruvo-project.ru)
 - Почта: [contact@cruvo-project.ru](mailto:contact@cruvo-project.ru)
-- Discord: [https://discord.gg/cruvo](https://discord.gg/v6cymA2GNu)
+- Discord: [https://discord.gg/v6cymA2GNu](https://discord.gg/v6cymA2GNu)
 
 ---
 
