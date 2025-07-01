@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cruvo-project.ru/assets/logo.svg" alt="CRUVO Logo" width="120"/>
+  <img src="https://cruvo-project.ru/Banner.png" alt="CRUVO Banner" width="800"/>
 </p>
 
 <h1 align="center">CRUVO IT Community</h1>
