@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://cruvo-project.ru/Banner.png" alt="CRUVO Banner" width="800"/>
 </p>
-
-<h1 align="center">CRUVO IT Community</h1>
-
 <p align="center">
   <strong>Сообщество IT-специалистов, разработчиков и дизайнеров</strong>
   <br>
