@@ -5,13 +5,13 @@
   <strong>Сообщество IT-специалистов, разработчиков и дизайнеров</strong>
   <br>
   <br>
-  <a href="https://discord.gg/v6cymA2GNu" target="_blank">
+  <a href="https://discord.gg/v6cymA2GNu/" target="_blank">
     <img src="https://img.shields.io/discord/1214562935196618763?label=Discord&logo=discord&style=for-the-badge&color=7289DA" alt="Discord">
   </a>
-  <a href="https://vk.com/cruvo_it_community" target="_blank">
+  <a href="https://vk.com/cruvo_it_community/" target="_blank">
     <img src="https://img.shields.io/badge/VK-%234C75A3.svg?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte">
   </a>
-  <a href="https://t.me/https://t.me/+qT5hn9vO7QplYjI6" target="_blank">
+  <a href="https://t.me/https://t.me/+qT5hn9vO7QplYjI6/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
